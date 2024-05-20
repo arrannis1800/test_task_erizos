@@ -18,3 +18,8 @@ I found this problem on leetcode and found out that my result was memory efficie
 ![image](https://github.com/arrannis1800/test_task_erizos/assets/52630886/4c6da6a5-4e48-4782-9d23-b8dab96bf8c7)
 
 I'm not sure that my decision was correct, but I think that memory is preferable when we use quite big objects like media
+
+
+## UE4 part
+
+Setting the location and resizing the plane works well, the margins are set correctly. Build works on Windows 
