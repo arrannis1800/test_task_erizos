@@ -25,3 +25,5 @@ I'm not sure that my decision was correct, but I think that memory is preferable
 Setting the location and resizing the plane works well, the margins are set correctly. Build works on Windows 
 
 It can be modified in an instance or class defaults. Or using simple hud to modify it in-game
+![image](https://github.com/arrannis1800/test_task_erizos/assets/52630886/723b8c76-5e70-44d1-9704-c3b0c1b57d47)
+
