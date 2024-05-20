@@ -23,3 +23,5 @@ I'm not sure that my decision was correct, but I think that memory is preferable
 ## UE4 part
 
 Setting the location and resizing the plane works well, the margins are set correctly. Build works on Windows 
+
+It can be modified in an instance or class defaults. Or using simple hud to modify it in-game
